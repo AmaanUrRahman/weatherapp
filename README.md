@@ -1,8 +1,7 @@
 # weatherapp
 dynamic Api based weather app
 
-   Based on HTML CSS JS
-   
+   Based on HTML CSS Jva script 
    Features:
 1.allows to see weather of city 
 2.predict weather of 7 days
